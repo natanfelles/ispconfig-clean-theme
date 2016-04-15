@@ -3355,7 +3355,7 @@ ul.ui-autocomplete {
 	bottom: 0;
 	margin-left: -1px;
 	padding: 3px !important;
-	background: none repeat scroll 0 0 # !important;
+	background: none repeat scroll 0 0 !important;
 	border: 1px solid #222 !important;
 	border-radius: 0 2px 2px 0;
 }
